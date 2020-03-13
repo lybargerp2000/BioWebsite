@@ -5,12 +5,17 @@ body {
     color: rgb(126, 26, 26);
   }
   p {
-    color: rgb(47, 0, 255);
+    color: rgb(7, 2, 27);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 50px;
+    font-size: 80px;
   }
 .green-comic{
   background-color: green;
   font-family: "Comic Sans MS";
   font-size: x-large;
+}
+.awesome{
+  color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100px;
 }
