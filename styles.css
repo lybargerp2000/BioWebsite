@@ -39,6 +39,88 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:75px;
 }
-.superPicture{
-  
+.black-comic{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.pink-comic{
+  color: pink;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px
+}
+.gray-comic{
+  color:rgba(128, 128, 128, 0.342);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px
+}
+.purple-comic{
+  color:purple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 75px;
+}
+.petruse-comic{
+  color:paleturquoise;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.palegoldenrod-comic{
+  color:palegoldenrod;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.paleturquoise-comic{
+  color:paleturquoise;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.papayawhip-comic{
+  color:papayawhip;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.peachpuff-comic{
+  color:peachpuff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.plum-comic{
+  color:plum;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.darkPurple-comic{
+  color:rgb(100, 27, 84);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.greenLeaf-comic{
+  color:rgba(49, 173, 45, 0.603);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.darkBlue-comic{
+  color:rgb(18, 9, 75);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.lightRed-comic{
+  color:rgba(218, 80, 62, 0.822);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.creamyGreen-comic{
+  color:rgb(9, 109, 109);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.puke-comic{
+  color:rgb(128, 177, 39);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
+}
+.wine-comic{
+  color:rgb(163, 74, 89);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:75px;
 }
